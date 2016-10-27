@@ -97,7 +97,9 @@ sbin/nginx -s  reload 重新启动 ，若出错pid，则输入命令
 	注意:访问端口是否在防火墙上启用
 
 
-# 自动部署 （上述流程已经在上传文件nginxinstall中处理完成，仅需P友解压nginxinstall.zip后执行nginxinstall.sh脚本即可完成安装。后续可以对nginx操作）
+# 自动部署 
+
+（上述流程已经在上传文件nginxinstall中处理完成，仅需P友解压nginxinstall.zip后执行nginxinstall.sh脚本即可完成安装。后续可以对nginx操作）
 
 请注意：可以播放MP3/mp4的加密文件（以bak/dcf结尾）
 
